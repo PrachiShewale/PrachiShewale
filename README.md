@@ -1,4 +1,4 @@
-# PrachiShewale
+# Prachi Shewale
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prachi-shewale-70803221b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prachimshewale26@gmail.com) 
